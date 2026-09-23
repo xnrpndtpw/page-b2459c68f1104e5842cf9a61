@@ -1,0 +1,122 @@
+{
+  "version": 2,
+  "template_version": "d39ce472eeb3cc3f10e7",
+  "page_size": 20,
+  "site_id": "2056c4520febe4ca29711e59",
+  "owner": "xnrpndtpw",
+  "repo": "page-b2459c68f1104e5842cf9a61",
+  "title": "辉夜",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "b2459c68f1104e5842cf9a61",
+      "a": "辉夜",
+      "b": "稳定全球clash加速器",
+      "entity": "辉夜",
+      "brand": "辉夜",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "619aa42b5c103272cf59963a1910eeed2a8565dca7ceea21c2a78dcb4f01ca14",
+      "content": {
+        "primary_entity": "辉夜",
+        "keyword1": "辉夜",
+        "keyword2": "稳定全球clash加速器",
+        "content": {
+          "AI_CLIENTS_INTRO": "根据设备类型选择合适的客户端，订阅配置步骤可参考对应客户端文档。",
+          "AI_CLIENTS_TITLE": "客户端与设备适配",
+          "AI_CLOSING_TEXT": "选好套餐，按客户端文档导入订阅即可开始使用。",
+          "AI_CLOSING_TITLE": "开始配置辉夜订阅",
+          "AI_DESCRIPTION": "，提供基础版、旗舰版、团队版三档套餐，分别支持 3 台、5 台与 20 台设备同时在线，满足个人、家庭与团队的不同设备需求。流量档位从每月 100GB 到 1000GB，旗舰版与团队版在网络线路与流媒体解锁上有所区分。按年付方式可减少每月支出，长期使用更划算。客户端覆盖常见桌面与移动平台，按照对应客户端文档导入订阅即可使用。",
+          "AI_FEATURES_INTRO": "围绕套餐选择、设备数量与订阅周期整理三项特点。",
+          "AI_FEATURES_TITLE": "按需选择辉夜套餐",
+          "AI_FEATURE_TEXT_1": "基础版月付 ¥15，适合 3 台设备以内、月流量 100GB 左右的轻度使用场景。",
+          "AI_FEATURE_TEXT_2": "旗舰版月付 ¥35，支持 5 台设备，含 IPLC 专线与原生流媒体解锁，偏向多设备高频使用。",
+          "AI_FEATURE_TEXT_3": "团队版月付 ¥85，20 台设备、1000GB 流量，适合小团队统一配置与定制路由。",
+          "AI_FEATURE_TITLE_1": "轻量入门",
+          "AI_FEATURE_TITLE_2": "多设备进阶",
+          "AI_FEATURE_TITLE_3": "团队协作",
+          "AI_GUIDE_INTRO": "按照选择服务、确认适配、配置订阅的流程操作。",
+          "AI_GUIDE_TITLE": "三步完成辉夜配置",
+          "AI_HERO_INTRO": "辉夜提供基础版、旗舰版、团队版三档订阅，设备数量从 3 台到 20 台，月流量从 100GB 到 1000GB。选择适合自己设备规模与使用强度的套餐，按客户端文档配置订阅即可。",
+          "AI_HERO_SUBTITLE": "辉夜订阅套餐，按设备规模选择",
+          "AI_HIGHLIGHT_1": "三档套餐覆盖 3 至 20 台设备",
+          "AI_HIGHLIGHT_2": "月流量 100GB 至 1000GB",
+          "AI_HIGHLIGHT_3": "按年付降低每月支出",
+          "AI_PLANS_INTRO": "基础版月付 ¥15、旗舰版月付 ¥35、团队版月付 ¥85，按年付分别为 ¥150、¥350、¥850。根据设备数量、月流量与线路需求对比选择。",
+          "AI_PLANS_TITLE": "辉夜套餐对比",
+          "AI_STEP_TEXT_1": "查看基础版、旗舰版、团队版的价格与流量，结合设备数量与使用场景选定一档。",
+          "AI_STEP_TEXT_2": "确认所选套餐支持的在线设备数、月流量和线路类型，与自己的设备情况匹配。",
+          "AI_STEP_TEXT_3": "依照对应客户端文档导入订阅信息，完成设备上的配置。",
+          "AI_STEP_TITLE_1": "选择套餐",
+          "AI_STEP_TITLE_2": "查看适配要求",
+          "AI_STEP_TITLE_3": "导入订阅配置",
+          "AI_VISUAL_TITLE": "辉夜订阅，按设备选择",
+          "AI_FAQ_ANSWER_1": "基础版适合手机加电脑共 3 台设备的轻度使用；旗舰版 5 台设备并带 IPLC 专线游戏优化，适合同时有游戏与流媒体需求的用户；团队版 20 台设备与定制路由适合多人共享。",
+          "AI_FAQ_ANSWER_2": "月付可按月灵活续费，年付分别只需 ¥150、¥350 与 ¥850，折合每月更低。短期体验选月付，长期稳定使用选年付更划算。",
+          "AI_FAQ_ANSWER_3": "在客户端中新建订阅，粘贴购买后获得的订阅地址并保存，再选择节点连接。不同系统导入方式不同，可参考客户端自带的订阅导入说明。",
+          "AI_FAQ_ANSWER_4": "基础版支持 3 台设备同时在线，旗舰版 5 台，团队版 20 台。可先在少量设备上体验，需要更多设备时再升级套餐。",
+          "AI_FAQ_ANSWER_5": "旗舰版包含全节点原生流媒体解锁与 IPLC 专线游戏加速优化，团队版提供 VIP 专属高带宽节点和专属客户经理服务，按需求选择对应档位即可。",
+          "AI_FAQ_INTRO": "套餐差异、设备数量、订阅导入与付费周期。",
+          "AI_FAQ_QUESTION_1": "不同套餐适合什么样的使用场景？",
+          "AI_FAQ_QUESTION_2": "月付和年付应该怎么选？",
+          "AI_FAQ_QUESTION_3": "订阅如何导入客户端？",
+          "AI_FAQ_QUESTION_4": "同时在线设备数量不够怎么办？",
+          "AI_FAQ_QUESTION_5": "流媒体解锁和游戏加速包含在哪些套餐？",
+          "AI_FAQ_TITLE": "常见问题"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "domain": {
+    "apex": "urdxhjk.cn",
+    "host": "urdxhjk.cn"
+  },
+  "file_hashes": {
+    "index.html": "af2e2e04c7a90f52830977fe754317e3eedcc219a1527350a4be502f4880969a",
+    "sitemap.xml": "426c74a8049117451824f46f98a344a7348a9d0bbfef6ba0d59d8e19d91b7526",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "8f1e0126ed536ad3fdefb8553841e9866ba9fcfde3d927ee2a95d67c77cd58b6",
+    "robots.txt": "ea8299e0eaf88cc5bbeddca57ad8b47de030e11b99f77d11b985c7586be385a4",
+    "02e4394550f69e7ddfd199586a63aee5.txt": "dcfae5e7c6a06de519f63cd9356011531cee4e974ce66171d821201c1253a1d9"
+  },
+  "revision": "dce6248fbc28ebd7babc3b6d9201ad13c0440258728d34abe5fa898fbdde4459"
+}
